@@ -98,7 +98,7 @@
       "options": {
         "A": "Both deform the same because the same force is applied.",
         "B": "Beam X deforms more because the same force is applied over a smaller contact area.",
-        "C": "Beam Y deforms more because the wide pad \"adds\" extra force.",
+        "C": "Beam Y deforms more because it is thinner.",
         "D": "Neither deforms unless the force is large enough to crack the plastic."
       },
       "matched_misconception": ""
